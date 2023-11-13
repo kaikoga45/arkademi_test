@@ -43,6 +43,14 @@ You can run the project on an emulator or a connected device using:
 flutter run
 ```
 
+## Testing
+
+To run the tests, use the following command:
+
+```
+bash test_coverage.sh
+```
+
 
 
 
