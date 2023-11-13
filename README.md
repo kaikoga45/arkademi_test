@@ -2,6 +2,8 @@
 
 The Arkademi Test project is a crucial assignment offered by Arkademi to aspiring Mobile Flutter Engineers. The primary objective of this app is to meticulously replicate the exact UI/UX design and features provided in the prototype while interfacing with an API. However, due to the unavailability of access to the original online and offline video links, a custom API has been created to mimic the functionalities provided by the original API. The key difference lies in the custom API, which now integrates new video links.
 
+[Video Demonstration](https://drive.google.com/file/d/1tpuw4kXy1wanIghsYrAHPIMQeNcb1NBP/view?usp=sharing)
+
 ## Features to be Implemented:
 1. Streaming Online Video Playback: Facilitate the seamless streaming of online videos, not downloaded content.
 2. Video Download Feature: Enable users to download videos for offline viewing.
