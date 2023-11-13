@@ -1,0 +1,4 @@
+enum CurriculumType {
+  section,
+  unit,
+}
